@@ -1,0 +1,87 @@
+.tast1{
+    color: azure;
+    background-color: rgb(9, 6, 2);
+}
+#tesing{
+    color: rgb(27, 117, 196);
+    background-color: antiquewhite;
+}
+.link1{
+    background-color: blue;
+    color:aquamarine;
+    font-style: oblique;
+}
+.link2{
+    background-color: rgb(25, 109, 182);
+    color: rgb(4, 26, 26);
+}
+
+body {
+    background-color: dodgerblue;
+    font-style: italic;
+    
+        }
+    
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: blue;
+    background-color: azure;
+}
+nav {
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+}
+
+
+nav a{
+    color: red;
+    font-size: large;
+    margin: 10px;
+
+
+}
+
+h1{
+    text-align: center;
+    font-style: normal;
+}
+p {
+    font-size: large;
+    color:blanchedalmond;
+}
+
+img {
+    margin-top: 20px;
+    
+    
+}
+
+form {
+    margin-top: 20px;
+    text-align: center;
+}
+.submit{
+    background-color: green;
+    color: white;
+}
+.reset{
+    background-color: red;
+    color: white;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+}
+.link{
+    color: red;
+    background-color: azure;
+    
+
+
+}
+
